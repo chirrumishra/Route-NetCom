@@ -7,7 +7,7 @@ python3 server.py
 ```
 Client Side:
 ```bash
-python3 client.py (key)
+python3 client.py <key>
 #here key is provided by server after execution
 ```
 

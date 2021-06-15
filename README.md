@@ -16,4 +16,4 @@ Two different Devices were connected to perform this demo
 1. Laptop 
 2. Phone
 
-![](Output.png)
+![](output/Output.png)
